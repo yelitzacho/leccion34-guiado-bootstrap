@@ -6,8 +6,12 @@ a{
 }
 th,td{
 	border: 1px solid #ccc;
-	padding: 1%;
+	padding: 2%;
 }
+img{
+	width: 100%;
+}
+
 /*Estilos reutilizables*/
 
 .bg-gray-low{
@@ -31,4 +35,7 @@ th,td{
 }
 .list-character span{
 	font-weight: 400;
+}
+table{
+	margin-top: 18px;
 }
